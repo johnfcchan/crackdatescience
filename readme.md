@@ -12,7 +12,8 @@
 
 2nd week - 1/2/2022 data cleaning
 
-amenities
+- Issues:
+  - amenities
 
 3rd week - data exploration & setting topic
 
