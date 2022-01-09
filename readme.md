@@ -1,6 +1,8 @@
-# 1st Crack Data Science Practicey Time Line
+# Crack Data Science Practice Time Line
 
-[Bay Area, CA - Airbnb Data (UPDATED 2020)](https://www.kaggle.com/raywilliam/bay-area-airbnb-data-updated-2020?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=linkedin)
+# Project: [Bay Area, CA - Airbnb Data (UPDATED 2020)](https://www.kaggle.com/raywilliam/bay-area-airbnb-data-updated-2020?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=linkedin)
+
+# Timeline
 
 1st week - 12/27/2021 Kick-off project
 
