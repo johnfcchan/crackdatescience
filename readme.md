@@ -15,7 +15,7 @@
 2nd week - 1/2/2022 data cleaning
 
 - Issues:
-  - amenities
+  - [amenities refer](https://www.kaggle.com/brittabettendorf/predicting-prices-xgboost-feature-engineering)
 
 3rd week - data exploration & setting topic
 
