@@ -16,6 +16,7 @@
 
 - Issues:
   - [amenities refer](https://www.kaggle.com/brittabettendorf/predicting-prices-xgboost-feature-engineering)
+  - [word cloud, sentimental analsys and topic modeling](https://www.kaggle.com/brittabettendorf/nlp-on-airbnb-data)
 
 3rd week - data exploration & setting topic
 
