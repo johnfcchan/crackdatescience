@@ -2,7 +2,7 @@
 
 ## Project Description
 
- [Bay Area, CA - Airbnb Data (UPDATED 2020)](https://www.kaggle.com/raywilliam/bay-area-airbnb-data-updated-2020?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=linkedin)
+[Bay Area, CA - Airbnb Data (UPDATED 2020)](https://www.kaggle.com/raywilliam/bay-area-airbnb-data-updated-2020?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=linkedin)
 
 ## Timeline
 
@@ -23,30 +23,31 @@
 ### which cols we need
 
 - e.g.
-  
-    id                                  int64
-    name                               object
-    host_id                             int64
-    host_name                          object
 
-    neighbourhood_group                object
-    neighbourhood                      object
+  id
+  name
+  host_id
+  host_name
 
-    latitude                          float64
-    longitude                         float64
+  neighbourhood_group
+  neighbourhood
 
-    room_type                          object
+  latitude
+  longitude
 
-    price                               int64
+  room_type
 
-    minimum_nights                      int64
-    number_of_reviews                   int64
+  price
 
-    reviews_per_month                 float64
-    calculated_host_listings_count      int64
-    availability_365                    int64
+  minimum_nights
+  number_of_reviews
 
-### What to compare
+  reviews_per_month
+  calculated_host_listings_count   
+  availability_365
+
+
+## What to compare
 
 - Room Type vs Price
 - Price/log price Distribution Plot
@@ -54,4 +55,4 @@
 ## Codes for refering
 
 - [amenities refer](https://www.kaggle.com/brittabettendorf/predicting-prices-xgboost-feature-engineering)
-- [word cloud, sentimental analsys and topic modeling](https://www.kaggle.com/brittabettendorf/nlp-on-airbnb-data)
+- [word cloud /weighted words /sentimental analsys /topic modeling](https://www.kaggle.com/brittabettendorf/nlp-on-airbnb-data)
