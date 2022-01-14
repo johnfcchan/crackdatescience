@@ -20,6 +20,9 @@
 
 ## ideas list
 
+### methdology for this large scale data?
+
+
 ### which cols we need
 
 - e.g.
@@ -43,16 +46,20 @@
   number_of_reviews
 
   reviews_per_month
-  calculated_host_listings_count   
+  calculated_host_listings_count
   availability_365
 
-
-## What to compare
+### What to compare
 
 - Room Type vs Price
 - Price/log price Distribution Plot
 
+
+### pipleline?
+
+
+
 ## Codes for refering
 
 - [amenities refer](https://www.kaggle.com/brittabettendorf/predicting-prices-xgboost-feature-engineering)
-- [word cloud /weighted words /sentimental analsys /topic modeling](https://www.kaggle.com/brittabettendorf/nlp-on-airbnb-data)
+- [word cloud /weighted words /sentimental analsys / topic modeling](https://www.kaggle.com/brittabettendorf/nlp-on-airbnb-data)
